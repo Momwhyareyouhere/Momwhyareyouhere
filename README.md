@@ -12,6 +12,6 @@
 10) Put at "YOUR_BOT_TOKEN" You bots real token
 
 
-#Credits
+# Credits
 
 Coder: Momwhyareyouhere
