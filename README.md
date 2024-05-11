@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/momwhyareyouhere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="momwhyareyouhere" height="30" width="40" /></a>
+<a href="[https://www.youtube.com/c/momwhyareyouhere](https://www.youtube.com/channel/UCDa_gUeGzQ4N1hTm4JJ-V8w)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="momwhyareyouhere" height="30" width="40" /></a>
 <a href="https://discord.gg/6pyWePtKZG" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="6pyWePtKZG" height="30" width="40" /></a>
 </p>
 
@@ -23,5 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=momwhyareyouhere&show_icons=true&locale=en&layout=compact" alt="momwhyareyouhere" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=momwhyareyouhere&show_icons=true&locale=en" alt="momwhyareyouhere" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=momwhyareyouhere&" alt="momwhyareyouhere" /></p>
