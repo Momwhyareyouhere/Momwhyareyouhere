@@ -1,3 +1,5 @@
-<h1>Hello</h1>
+# Hello 👋
 
-<p>I make some things with python or html</p>
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Momwhyareyouhere&show_icons=true&theme=radical)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Momwhyareyouhere&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
