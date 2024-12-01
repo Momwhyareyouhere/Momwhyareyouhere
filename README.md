@@ -1,5 +1,2 @@
-Hi im Momwhyareyouhere
+![hmm](https://github-readme-stats.vercel.app/api?username=Momwhyareyouhere&hide=contribs,prs)
 
-I do something when i am bored and i make sometimes helpful things for Linux Users like a Shortcut Editor and a Linux Command maker.
-
-I own [DiscordClients](<https://github.com/DiscordClients>)
