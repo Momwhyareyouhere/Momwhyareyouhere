@@ -1,6 +1,8 @@
-## Hi there 👋
+# Hi there 👋
 
 I'm **Momwhyareyouhere**
+
+I build things, break things, fix things, and occasionally pretend I knew what I was doing the whole time.
 
 ```python
 while not successful:
@@ -12,23 +14,34 @@ while not successful:
         coffee.refill()
 ```
 
----
 
-### 🛠 Tech Stack
+## 🧠 About me
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
----
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Momwhyareyouhere&show_icons=true&theme=default&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Momwhyareyouhere&layout=compact&theme=default&hide_border=true)
+* I write mostly Python
+* I use Linux because it makes me feel in control (it doesn’t)
 
 ---
 
-### 📫 Where to find me
+## 🛠 Stuff I use
 
-- **Projects**: [github.com/Momwhyareyouhere](https://github.com/Momwhyareyouhere)
+Python: [https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+Linux: [https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+---
+
+## 📊 GitHub stuff
+
+<img src="https://github-stats-extended.vercel.app/api?username=Momwhyareyouhere">  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Momwhyareyouhere&layout=compact&hide_border=true">
+
+---
+
+## 📫 Where to find me
+
+GitHub: [https://github.com/Momwhyareyouhere](https://github.com/Momwhyareyouhere)
+
+---
+
+> "It works on my machine."
+
+---
