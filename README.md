@@ -32,7 +32,7 @@ while not successful:
 ## 📊 GitHub stuff
 
 <img src="https://github-stats-extended.vercel.app/api?username=Momwhyareyouhere">  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Momwhyareyouhere&layout=compact&hide_border=true">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Momwhyareyouhere&layout=compact&hide_border=true">
 
 ---
 
