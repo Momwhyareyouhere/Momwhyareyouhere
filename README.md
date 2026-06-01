@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Momwhyareyouhere** — a Python developer who builds things, breaks things, and learns along the way.
+I'm **Momwhyareyouhere**
 
 ```python
 while not successful:
