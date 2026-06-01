@@ -24,8 +24,8 @@ while not successful:
 
 ## 🛠 Stuff I use
 
-Python: [https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-Linux: [https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
 
